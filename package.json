@@ -1,0 +1,19 @@
+{
+  "name": "local_music_player",
+  "version": "0.0.1",
+  "description": "a local music player work on file://",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonham/local_music_player.git"
+  },
+  "keywords": [
+    "Music",
+    "Player"
+  ],
+  "author": "Jonham",
+  "license": "MIT"
+}
