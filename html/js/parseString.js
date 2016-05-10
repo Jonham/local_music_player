@@ -21,7 +21,7 @@ var parseString = function(str) {
         var curList = [];
         var curPath = "";
         var curName = "";
-        var Path = function(name, list, path) {
+        var Path = function(name, list, path) { // properties: name list path
             if (this === window) { return new Path(name, list, path); }
             this.name = name;
             this.list = list;
